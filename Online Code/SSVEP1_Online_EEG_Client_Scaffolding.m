@@ -6,6 +6,7 @@
 % 2. SSVEP stimulation is handled on another machine (arduino/comp) using training frequencies.
 % 3. A different machine is querying through LSL for the commands sent through this code
 
+% You'll probably need to change these folders to match your system...
 addpath('C:\Dropbox (BGU)\BCI resources\SSVEP\Generic Code\Online Code');
 addpath('C:\Dropbox (BGU)\BCI resources\SSVEP\Generic Code\Offline Training');
 addpath('C:\Toolboxes\labstreaminglayer-master\LSL\liblsl-Matlab\liblsl-Matlab');
